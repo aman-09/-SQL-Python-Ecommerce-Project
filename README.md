@@ -9,25 +9,25 @@ This project simulates a complete E-commerce platform built using SQL and Python
 - Supports CRUD operations (Create, Read, Update, Delete) on product listings.
 
 2. Sellers Module:
-• Handles seller registrations and their product listings.
-• Includes seller-specific performance metrics like ratings and sales data.
+- Handles seller registrations and their product listings.
+- Includes seller-specific performance metrics like ratings and sales data.
 
 3. Customers Module:
-• Manages customer information, including names, contact details, and order history.
-• Includes customer authentication and profile management.
+- Manages customer information, including names, contact details, and order history.
+- Includes customer authentication and profile management.
 
 4. Payments Module:
-• Implements a payment processing system to handle customer transactions.
-• Supports multiple payment methods and integrates security checks for transactions.
+- Implements a payment processing system to handle customer transactions.
+- Supports multiple payment methods and integrates security checks for transactions.
 
 5. Geolocation Module:
-• Uses geolocation data to handle shipping details, delivery times, and optimize routes.
-• Allows tracking of customer locations and store distribution centers for effective delivery.
+- Uses geolocation data to handle shipping details, delivery times, and optimize routes.
+- Allows tracking of customer locations and store distribution centers for effective delivery.
 
 # Technologies Used
-• Python: For the backend logic and integration with SQL.
-• SQL: For database management and query processing.
-• Libraries: Pandas, NumPy, SQLAlchemy for database interaction.
+- Python: For the backend logic and integration with SQL.
+- SQL: For database management and query processing.
+- Libraries: Pandas, NumPy, SQLAlchemy for database interaction.
 
 # Installation
 1. Clone the repository.
@@ -39,6 +39,6 @@ This project simulates a complete E-commerce platform built using SQL and Python
 3. Process payments and track order deliveries.
 
 # Future Enhancements
-• Add a front-end interface for users.
-• Implement advanced analytics on customer purchasing behavior.
-• Incorporate real-time payment gateway integration.
+- Add a front-end interface for users.
+- Implement advanced analytics on customer purchasing behavior.
+- Incorporate real-time payment gateway integration.
