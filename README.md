@@ -5,8 +5,8 @@ This project simulates a complete E-commerce platform built using SQL and Python
 
 # Key Features
 1. Products Module:
-• Manages the inventory of products, including categories, pricing, stock levels, and product details.
-• Supports CRUD operations (Create, Read, Update, Delete) on product listings.
+- Manages the inventory of products, including categories, pricing, stock levels, and product details.
+- Supports CRUD operations (Create, Read, Update, Delete) on product listings.
 
 2. Sellers Module:
 • Handles seller registrations and their product listings.
