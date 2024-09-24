@@ -5,23 +5,23 @@ This project simulates a complete E-commerce platform built using SQL and Python
 
 ## Key Features
 
-### Products Module:
+### 1. Products Module:
 - Manages the inventory of products, including categories, pricing, stock levels, and product details.
 - Supports CRUD operations (Create, Read, Update, Delete) on product listings.
 
-### Sellers Module:
+### 2. Sellers Module:
 - Handles seller registrations and their product listings.
 - Includes seller-specific performance metrics like ratings and sales data.
 
-### Customers Module:
+### 3. Customers Module:
 - Manages customer information, including names, contact details, and order history.
 - Includes customer authentication and profile management.
 
-### Payments Module:
+### 4. Payments Module:
 - Implements a payment processing system to handle customer transactions.
 - Supports multiple payment methods and integrates security checks for transactions.
 
-### Geolocation Module:
+### 5. Geolocation Module:
 - Uses geolocation data to handle shipping details, delivery times, and optimize routes.
 - Allows tracking of customer locations and store distribution centers for effective delivery.
 
